@@ -1,0 +1,25 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "learnyounode-trainning",
+  "main": "1-helloworld.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "concat-stream": "^1.6.0",
+    "strftime": "^0.10.0",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learnyounode",
+    "solutions",
+    "node",
+    "js",
+    "back-end"
+  ],
+  "author": "Santi Velat",
+  "license": "ISC"
+}
